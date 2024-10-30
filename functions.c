@@ -10,6 +10,7 @@ void transposeMatrix(int original[][MAX_SIZE], int transposed[][MAX_SIZE], int r
         }
     }
 }
+//comment
 
 void printMatrix(int matrix[][MAX_SIZE], int row, int col) {
     for (int i = 0; i < row; i++) {
